@@ -39,6 +39,10 @@ let z=new Disco('Meteora','Linkin Park','Chester Bennington',2003,'Metal Alterna
 z.agregarDisco();
 z.cargarNuevosDatos('Sempiternal','Bring Me The Horizon',' Oliver Sykes',2013,'Post-Hardcore',false);
 z.agregarDisco();
+
+
+z.cargarNuevosDatos('prueba','primero','Miguel',1991,'serenata',true);
+z.agregarDisco();
 z.mostrarDiscografia();
 
 
